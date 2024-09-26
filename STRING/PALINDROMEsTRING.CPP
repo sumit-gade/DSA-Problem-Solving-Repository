@@ -1,3 +1,7 @@
+/* T=0(N) , S=0(1)*/
+ 
+
+
 #include<iostream>
 using namespace std;
 
